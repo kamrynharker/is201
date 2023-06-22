@@ -1,0 +1,56 @@
+/* Styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+  }
+  
+  /* Styles for the ordered and unordered lists */
+  ol {
+    color: #000000;
+  }
+  
+  ul {
+    color: #000000;
+  }
+
+  .homebg {
+    background-image: url("Untitled\ design.png");
+    background-position: top right;
+}
+  
+  /* Styles for the images */
+  img {
+    width: 800px;
+    height: auto;
+  }
+  
+  /* Styles for the styled divs */
+  .styled-div {
+    background: linear-gradient(to right, #ffffff 90%, transparent 100%);
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the navigation */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  /* Styles for the Tableau graph */
+  #tableau-graph {
+    width: 100%;
+    height: 400px;
+  }
+  
