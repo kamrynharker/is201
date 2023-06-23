@@ -17,7 +17,16 @@ body {
     background-image: url("Untitled\ design.png");
     background-position: top right;
 }
-  
+  a {
+    color: #000000;
+    text-decoration: none;
+    font-size: large;
+  }
+  a:hover {
+    text-decoration: underline;
+    font-size: larger;
+  }
+
   /* Styles for the images */
   img {
     width: 800px;
